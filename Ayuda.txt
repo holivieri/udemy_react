@@ -1,0 +1,3 @@
+
+rafce: snipet para crear un functional componnent con PropTypes
+rafcp
